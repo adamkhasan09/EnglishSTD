@@ -1,0 +1,13 @@
+F:\project_SCADA\VS\EngSTD\EngSTD\bin\Debug\EngSTD.exe.config
+F:\project_SCADA\VS\EngSTD\EngSTD\bin\Debug\EngSTD.exe
+F:\project_SCADA\VS\EngSTD\EngSTD\bin\Debug\EngSTD.pdb
+F:\project_SCADA\VS\EngSTD\EngSTD\obj\Debug\EngSTD.csprojAssemblyReference.cache
+F:\project_SCADA\VS\EngSTD\EngSTD\obj\Debug\EngSTD.csproj.ResolveComReference.cache
+F:\project_SCADA\VS\EngSTD\EngSTD\obj\Debug\EngSTD.Form1.resources
+F:\project_SCADA\VS\EngSTD\EngSTD\obj\Debug\EngSTD.Properties.Resources.resources
+F:\project_SCADA\VS\EngSTD\EngSTD\obj\Debug\EngSTD.csproj.GenerateResource.cache
+F:\project_SCADA\VS\EngSTD\EngSTD\obj\Debug\EngSTD.csproj.CoreCompileInputs.cache
+F:\project_SCADA\VS\EngSTD\EngSTD\obj\Debug\EngSTD.exe
+F:\project_SCADA\VS\EngSTD\EngSTD\obj\Debug\EngSTD.pdb
+F:\project_SCADA\VS\EngSTD\EngSTD\bin\Debug\MaterialSkin.dll
+F:\project_SCADA\VS\EngSTD\EngSTD\obj\Debug\EngSTD.csproj.CopyComplete
