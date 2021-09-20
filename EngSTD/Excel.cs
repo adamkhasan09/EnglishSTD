@@ -19,7 +19,7 @@ namespace EngSTD
         {
             this.path = path;
             wb = excel.Workbooks.Open(path);
-            ws = excel.Worksheets[Sheet];
+            ws = (Worksheet)excel.Worksheets[Sheet];
         }
         public string ReadCell(int range, int column)
         {

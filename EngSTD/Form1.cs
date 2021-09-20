@@ -83,6 +83,8 @@ namespace EngSTD
 
         private void Button3_Click(object sender, EventArgs e)
         {
+            label10.Visible = false;
+            label11.Visible = false;
             Excel excel = new Excel(BasePath, 1);
             Handler HND = new Handler();
             if (ids.Length != 1)
@@ -254,6 +256,20 @@ namespace EngSTD
         private void Button4_Click_1(object sender, EventArgs e)
         {
             label2.Visible = true;
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            if(textBox5.Text == label2.Text)
+            {
+                label10.Visible = true;
+                label11.Visible = !label10.Visible;
+            }
+            else
+            {
+                label11.Visible = true;
+                label10.Visible = !label11.Visible;
+            }
         }
     }
     class Handler
